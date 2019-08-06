@@ -1,4 +1,4 @@
-from papaye.passr.application import Application
+from passr.application import Application
 
 
 __all__ = (
